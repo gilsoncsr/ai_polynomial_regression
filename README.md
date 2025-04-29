@@ -23,9 +23,7 @@ Este projeto tem como objetivo a análise exploratória e modelagem preditiva de
 ## Como Executar o Projeto
 
 1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-repositorio.git
-   ```
+
 2. Instale as dependências:
    ```sh
    pip install -r requirements.txt
@@ -62,9 +60,7 @@ This project aims to perform exploratory data analysis and predictive modeling o
 ## How to Run the Project
 
 1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-repository.git
-   ```
+
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
@@ -101,9 +97,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos y 
 ## Cómo Ejecutar el Proyecto
 
 1. Clona este repositorio:
-   ```sh
-   git clone https://github.com/your-repository.git
-   ```
+
 2. Instala las dependencias:
    ```sh
    pip install -r requirements.txt
